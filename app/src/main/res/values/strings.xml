@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OASPERS</string>
+    <string name="title_activity_seeker_map">Map</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="update">update</string>
+    <string name="Seeking">Seeking</string>
+</resources>
